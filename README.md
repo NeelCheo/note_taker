@@ -27,4 +27,4 @@ email: neel.chakravartty@uconn.edu
 -------------------------------------------
 
 Repository: https://github.com/NeelCheo/note_taker
-Heroku: 
+Heroku: https://note-taker-by-neel.herokuapp.com/
